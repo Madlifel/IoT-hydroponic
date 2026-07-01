@@ -5,6 +5,7 @@
 **/__Preview/
 *.PrjPcbStructure
 *.RptStructure
+*.PrjPcbStructure
 *.AprReport
 **/Project Outputs for */
 *.LOG
