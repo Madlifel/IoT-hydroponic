@@ -4,6 +4,8 @@
 **/History/
 **/__Preview/
 *.RptStructure
+*.PrjPcbStructure
+*.PrjPcb
 *.AprReport
 **/Project Outputs for */
 *.LOG
