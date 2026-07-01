@@ -1,0 +1,10 @@
+# ==========================================
+# 1. Chặn file rác của Altium Designer (Thư mục hardware)
+# ==========================================
+**/History/
+**/__Preview/
+*.RptStructure
+*.AprReport
+**/Project Outputs for */
+*.LOG
+*.ERR
