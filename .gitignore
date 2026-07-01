@@ -3,6 +3,7 @@
 # ==========================================
 **/History/
 **/__Preview/
+*.PrjPcbStructure
 *.RptStructure
 *.AprReport
 **/Project Outputs for */
