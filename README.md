@@ -11,6 +11,7 @@ Một hệ thống quản lý, giám sát và điều khiển tự động mô h
 * **Giám sát & Điều khiển từ xa:** Thiết kế giao diện Dashboard trên ứng dụng di động thông qua nền tảng Blynk IoT để theo dõi hệ thống mọi lúc mọi nơi.
 * **Cảnh báo thông minh:** Hệ thống tự động gửi thông báo (App alerts) về điện thoại của người dùng ngay khi các chỉ số vượt ngưỡng an toàn.
 * **Tự động hóa hoàn toàn:** Tự động kích hoạt cơ cấu chấp hành (bơm nước thủy canh, đèn LED bù sáng cho cây trồng) dựa trên các ngưỡng sinh trưởng được thiết lập sẵn.
+* **Cho phép tự cấu hình WIFI:** Người dùng có thể tự cấu hình WIFI bằng cách nhấn giữ nút WIFI trên mạch.
 
 ---
 
@@ -47,7 +48,7 @@ docs/: Chứa tài liệu hướng dẫn, hình ảnh thực tế của mô hìn
 - Mở thư mục firmware/ bằng VS Code.
 - Tạo một file config.h (hoặc cấu hình trực tiếp trong file mã nguồn) để điền thông tin mạng Wi-Fi và mã Token (Auth Token) từ tài khoản Blynk của bạn.
 - Nhấn nút Build và Upload trên PlatformIO để nạp code xuống board mạch ESP32.
-
+- Muốn cấu hình WIFI cần nhấn giữ nút WIFI trên mạch 3s. Bắt mạng ThuyCanh_setup để cấu hình.
 ---
 
 ## 📸 Hình ảnh thực tế & Kết quả (Demo & Results)
