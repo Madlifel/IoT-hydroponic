@@ -54,7 +54,7 @@ docs/: Chứa tài liệu hướng dẫn, hình ảnh thực tế của mô hìn
 
 |Giao diện app Blynk|Mô hình mạch thực tế|Toàn cảnh hệ thống|
 |-------------------|--------------------|------------------|
-|![](./docs/images/Inter1.jpg)|![](./docs/images/Mach.jpg)|![](./docs/images/MHTT.jpg)|
+|![](./docs/images/Inter.jpg)|![](./docs/images/Mach.jpg)|![](./docs/images/MHTT.jpg)|
 
 [Video demo](https://youtu.be/MgMgrIcbNXU) 
 
