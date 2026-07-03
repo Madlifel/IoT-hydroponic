@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL6tsQEYh5R"
 #define BLYNK_TEMPLATE_NAME "SmartHydroponics"
-#define BLYNK_AUTH_TOKEN "1Gk9pz_X3QobbMETF3KLhchpeCupJxzG"
+#define BLYNK_AUTH_TOKEN "NHẬP_TOKEN_BLYNK_CỦA_BẠN_VÀO_ĐÂY"
 
 #include <Arduino.h>
 #include <OneWire.h>
